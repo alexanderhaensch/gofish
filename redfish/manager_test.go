@@ -6,7 +6,7 @@ package redfish
 
 import (
 	"encoding/json"
-	"github.com/stmcginnis/gofish/common"
+	"github.com/alexanderhaensch/gofish/common"
 	"reflect"
 	"strings"
 	"testing"

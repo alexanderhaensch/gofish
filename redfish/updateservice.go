@@ -7,7 +7,7 @@ package redfish
 import (
 	"encoding/json"
 
-	"github.com/stmcginnis/gofish/common"
+	"github.com/alexanderhaensch/gofish/common"
 )
 
 // UpdateService is used to represent the update service offered by the redfish API
