@@ -321,7 +321,7 @@ type Processor struct {
 	Status common.Status
 	// SubProcessors shall be a link to a
 	// collection of type ProcessorCollection.
-	SubProcessors string
+	// SubProcessors string
 	// TDPWatts shall be the nominal Thermal
 	// Design Power (TDP) in watts.
 	TDPWatts int
