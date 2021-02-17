@@ -1,3 +1,3 @@
-module github.com/stmcginnis/gofish
+module github.com/alexanderhaensch/gofish
 
 go 1.15
